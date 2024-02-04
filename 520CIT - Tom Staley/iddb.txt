@@ -1,0 +1,5 @@
+###idlist
+exampleid1, exampleid2, exampleid3, exampleid4, exampleid5, exampleid6, ids55434519, jgh394832, lol42069420, tgh03948394, 
+
+###group list 
+examplegroupid, exampleid1 exampleid2 exampleid5, 01:00, 2:00, classroom1 , examplegroupid2, exampleid3 exampleid4, 09:00, 14:00, m505 , exampleEmptyGroup, col93940222 exampleid3 exampleid5, 0, 0, 0 , computing, col93940222 exampleid5 exampleid6, 08:00, 09:00, 2124 , business, 0 0, 05:00, 10:00, S225
