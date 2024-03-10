@@ -1,0 +1,15 @@
+
+    Total Number of users:  1
+    Total number of tasks:  1
+
+-------------------------------------------------------------------
+
+User:                                                   admin
+
+Total number of tasks assigned:                         1
+Percentage of the total number of tasks assigned:       100.0
+Percentage of the tasks assigned that are complete:     0.0
+Percentage of the tasks assigned that are incomplete:   100.0
+Percentage of the tasks assigned that are overdue:      0.0
+
+-------------------------------------------------------------------

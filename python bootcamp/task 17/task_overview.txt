@@ -1,0 +1,19 @@
+
+    Total number of tasks:  1
+    Total tasks completed:  0
+    Total tasks incomplete: 1
+    Total tasks overdue:    0
+
+    Percentage of tasks incomplete: 100.0%
+    Percentage of tasks overdue:    0.0%
+
+-------------------------------------------------------------------
+
+Task:               task test
+Assigned to:        admin
+Date Assigned:      2024-02-23 00:00:00
+Due Date:           2025-04-04 00:00:00
+Completed?          False
+Task Description: 
+    a test task for the test
+-------------------------------------------------------------------
