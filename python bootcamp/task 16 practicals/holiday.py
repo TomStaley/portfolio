@@ -54,12 +54,12 @@ def holiday_cost(hotel: int, plane: str, car: int):
 
 #take user inputs / city dictionary
 
-#city list stored in dictionary
+#city list stored in dictionary (all lowercase)
 city_dict = {
-    "London": 400,
-    "city1": 200,
-    "city2": 100,
-    "city3": 500
+    "london": 400,
+    "glasgow": 200,
+    "birmingham": 100,
+    "bristol": 500
     }
 
 #this formats the dictionary into a readable format
@@ -68,7 +68,7 @@ city_list = f'''
 '''
 
 for city, cost in city_dict.items():
-    temp_column = f"{city:<15} £{cost:<8} \n"
+    temp_column = f"{city.title():<15} £{cost:<8} \n"
     city_list = city_list + temp_column
 
 
@@ -78,6 +78,7 @@ while True:
     {city_list}
 Please select the city you'll fly to, from the above list: 
 '''))
+    city_flight = city_flight.lower()
     if city_flight in city_dict:
         break
     else:
