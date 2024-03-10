@@ -13,3 +13,5 @@ Task 11: String Handling
 Task 12: Data Structures - Lists and Dictionaries 
 Task 14: IO Operations - Input 
 Task 15: IO Operations - Output 
+Task 16: Programming with User-defined Functions
+Task 17: Capstone Project - Lists, Functions, and String Handling 
